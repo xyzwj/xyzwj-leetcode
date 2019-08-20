@@ -29,3 +29,7 @@ extend:
 1. list(s3) ?
 
 important: How to think this problem ? -- two-dim array / convert to data structure ?
+
+ref:
+1. https://www.cnblogs.com/ariel-dreamland/p/9159742.html
+2. https://leetcode-cn.com/problems/interleaving-string/
