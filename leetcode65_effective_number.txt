@@ -1,0 +1,10 @@
+method:
+effective list:
+0-9
+e
++/-
+.
+
+
+ref:
+1. https://www.cnblogs.com/powercai/p/10930883.html
