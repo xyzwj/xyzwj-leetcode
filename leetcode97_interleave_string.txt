@@ -1,0 +1,31 @@
+method:
+1. dp
+2. dfs
+3. bfs
+
+1 2 3 4 5 6 7 8 9 10
+a a d b b c b c a c
+
+      0    1    2    3    4    5
+      $    d    b    b    c    a
+0 $   T -> F 
+      |
+      v
+1 a   T -> F 
+      |
+      v
+2 a   T -> T -> T -> T -> T -> T
+      |    |              |    |
+      v    v              v    v
+3 b   F    T -> T         F    F
+                |
+                v
+4 c             T -> T -> T -> T
+                               |
+                               v
+5 c                            T
+
+extend:
+1. list(s3) ?
+
+important: How to think this problem ? -- two-dim array / convert to data structure ?
